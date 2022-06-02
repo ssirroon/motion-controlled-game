@@ -36,7 +36,7 @@ The following .py files contain our game functions:
 `/Images` contains the images we use for our sprites and background. `/Sound` contains the .mp3 files we use for our sounds. Paths to these files are hard-coded, so when downloading all the files ensure the file structure remains the same.
 
 ### Website
-Our website can be accessed at [here](https://bookish-disco-d0f14f98.pages.github.io/). Our presentation is linked [here](https://drive.google.com/file/d/1MV2sFGLHtfv1iMcCYdEDy_kpfPEYFoUT/view?usp=sharing).
+Our website can be accessed at [here](https://olincollege.github.io/cheems-game/). Our presentation is linked [here](https://drive.google.com/file/d/1MV2sFGLHtfv1iMcCYdEDy_kpfPEYFoUT/view?usp=sharing).
 
 ### References
 We used the [MediaPipe API](https://google.github.io/mediapipe/) for our hand tracking: https://google.github.io/mediapipe/.
