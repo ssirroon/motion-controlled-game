@@ -14,12 +14,10 @@ class SwipeDetection():
     Attributes:
         Hands: the object the camera actually tracks
         mp_drawing:
-        mp_hands:
-        mode:
-        max_hands
-        min_detection_con:
-        min_track_con:
-        results:
+        mp_hands: hand objects recognized
+        max_hands: maximum number of hands on screen
+        min_detection_con: minimum detection confidence
+        min_track_con: minimum tracking confidence
     """
 
     def __init__(self, mode=False, max_hands=2, min_detectioncon=.6,
